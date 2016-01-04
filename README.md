@@ -3,9 +3,7 @@ Based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/
 
 > “DuoTone themes use only 2 hues. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.”
 
-Easy clone [Duotones Themes](http://atelierbram.github.io/syntax-highlighting/duotones/ "colorschemes, made with Base16 Builder") for Vim colorschemes, with plugin manager [Pathogen].
-
-## Screenshots
+## Screenshot
 ![DuoTone Dark](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_vim_960x640.png "DuoTone Dark")
 
 ## Installation
@@ -21,6 +19,7 @@ $ mv *.vim ~/.vim/colors/
 ```
 
 ### Option 2: Pathogen installation ***(recommended)***
+Easy clone [Duotones Themes](http://atelierbram.github.io/syntax-highlighting/duotones/ "colorschemes, made with Base16 Builder") for Vim colorschemes, with plugin manager [Pathogen].
 
 1.  Download and install Tim Pope's [Pathogen].
 
