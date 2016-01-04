@@ -5,13 +5,8 @@ Based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/
 
 Easy clone [Duotones Themes](http://atelierbram.github.io/syntax-highlighting/duotones/ "colorschemes, made with Base16 Builder") for Vim colorschemes, with plugin manager [Pathogen].
 
-## Screenshots
+## Screenshot
 ![DuoTone Dark](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_vim_960x640.png "DuoTone Dark")
-![DuoTone DarkSea](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSea_vim_960x640.png "DuoTone DarkSea")
-![DuoTone DarkSpace](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSpace_vim_960x640.png "DuoTone DarkSpace")
-![DuoTone DarkEarth](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkEarth_vim_960x640.png "DuoTone DarkEarth")
-![DuoTone DarkForest](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkForest_vim_960x640.png "DuoTone DarkForest")
-![DuoTone DarkPool](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkPool_vim_960x640.png "DuoTone DarkPool")
 
 ## Installation
 
