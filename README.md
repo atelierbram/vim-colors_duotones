@@ -5,9 +5,6 @@ Based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/
 
 Easy clone [Duotones Themes](http://atelierbram.github.io/syntax-highlighting/duotones/ "colorschemes, made with Base16 Builder") for Vim colorschemes, with plugin manager [Pathogen].
 
-## Screenshot
-![DuoTone Dark](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_vim_960x640.png "DuoTone Dark")
-
 ## Installation
 
 ### Option 1: Manual installation
