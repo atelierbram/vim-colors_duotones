@@ -24,7 +24,7 @@ let s:gui08 = "7765d2"
 let s:gui09 = "c07830"
 let s:gui0A = "d48535"
 let s:gui0B = "7c756e"
-let s:gui0C = "e8a35e"
+let s:gui0C = "fec286"
 let s:gui0D = "de9145"
 let s:gui0E = "a49bcf"
 let s:gui0F = "8e81cf"
@@ -221,10 +221,10 @@ call <sid>hi("csContextualStatement",   s:gui0E, "", s:cterm0E, "", "")
 call <sid>hi("csNewDecleration",        s:gui08, "", s:cterm08, "", "")
 
 " CSS highlighting
-call <sid>hi("cssBraces",      s:gui03, "", s:cterm03, "", "")
-call <sid>hi("cssClassName",   s:gui0E, "", s:cterm0E, "", "")
-call <sid>hi("cssColor",       s:gui0C, "", s:cterm0C, "", "")
-call <sid>hi("cssUnitDecorators",       s:gui03, "", s:cterm03, "", "")
+call <sid>hi("cssBraces",          s:gui03, "", s:cterm03, "", "")
+call <sid>hi("cssClassName",       s:gui0E, "", s:cterm0E, "", "")
+call <sid>hi("cssColor",           s:gui0C, "", s:cterm0C, "", "")
+call <sid>hi("cssUnitDecorators",  s:gui0D, "", s:cterm0D, "", "")
 
 " Diff highlighting
 call <sid>hi("DiffAdd",      s:gui0B, s:gui01,  s:cterm0B, s:cterm01, "")
@@ -240,7 +240,7 @@ call <sid>hi("DiffRemoved",  s:gui08, s:gui00,  s:cterm08, s:cterm00, "")
 " Git highlighting
 call <sid>hi("gitCommitOverflow",  s:gui08, "", s:cterm08, "", "")
 call <sid>hi("gitCommitSummary",   s:gui0B, "", s:cterm0B, "", "")
-  
+
 " GitGutter highlighting
 call <sid>hi("GitGutterAdd",     s:gui0B, s:gui01, s:cterm0B, s:cterm01, "")
 call <sid>hi("GitGutterChange",  s:gui0D, s:gui01, s:cterm0D, s:cterm01, "")
@@ -291,7 +291,8 @@ call <sid>hi("rubyStringDelimiter",         s:gui0B, "", s:cterm0B, "", "")
 " SASS highlighting
 call <sid>hi("sassidChar",     s:gui08, "", s:cterm08, "", "")
 call <sid>hi("sassClassChar",  s:gui09, "", s:cterm09, "", "")
-call <sid>hi("sassInclude",    s:gui0E, "", s:cterm0E, "", "")
+call <sid>hi("sassInclude",    s:gui07, "", s:cterm07, "", "")
+call <sid>hi("scssInclude",    s:gui07, "", s:cterm07, "", "")
 call <sid>hi("sassMixing",     s:gui0E, "", s:cterm0E, "", "")
 call <sid>hi("sassMixinName",  s:gui0D, "", s:cterm0D, "", "")
 call <sid>hi("scssVariable",  s:gui06, "", s:cterm06, "", "")
