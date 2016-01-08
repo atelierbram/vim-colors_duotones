@@ -1,7 +1,9 @@
-# Duotones Themes for Vim
+# DuoTones
 Based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/) for Atom.
 
 > “DuoTone themes use only 2 hues (7 shades in total). It tones down less important parts (like punctuation and brackets) and highlights only the important ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.”
+
+Go to [demopage](http://atelierbram.github.io/syntax-highlighting/duotones)
 
 ## Screenshot
 ![DuoTone Dark](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_vim_960x640.png "DuoTone Dark")
@@ -73,3 +75,8 @@ Released under [MIT Licence](http://atelierbram.mit-license.org)
 
 ### Credits
 Credits to [Simurai](http://simurai.com/), for these themes are based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) for Atom.
+
+### Resources
+[Orginal Colorscheme for Atom on simurai.com](https://github.com/simurai/duotone-dark-syntax/blob/master/styles/colors.less](http://simurai.com/projects/2016/01/01/duotone-themes/)
+[Orginal Colorscheme for Atom on Github](https://github.com/simurai/duotone-dark-syntax/blob/master/styles/colors.less)
+[Creating Colorschemes for Vim on vimcasts.org](http://vimcasts.org/episodes/creating-colorschemes-for-vim/)
