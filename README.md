@@ -1,10 +1,16 @@
 # Duotones Themes for Vim
 Based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/) for Atom.
 
-> “DuoTone themes use only 2 hues. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.”
+> “DuoTone themes use only 2 hues (7 shades in total). It tones down less important parts (like punctuation and brackets) and highlights only the important ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.”
 
 ## Screenshot
 ![DuoTone Dark](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_vim_960x640.png "DuoTone Dark")
+
+- [DuoTone darkSea](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSea_vim_960x640.png "DuoTone Dark")
+- [DuoTone darkSpace](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSpace_vim_960x640.png "DuoTone Dark")
+- [DuoTone darkEarth](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkEarth_vim_960x640.png "DuoTone Dark")
+- [DuoTone darkForest](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkForest_vim_960x640.png "DuoTone Dark")
+- [DuoTone darkPool](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkPool_vim_960x640.png "DuoTone Dark")
 
 ## Installation
 
