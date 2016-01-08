@@ -77,6 +77,6 @@ Released under [MIT Licence](http://atelierbram.mit-license.org)
 Credits to [Simurai](http://simurai.com/), for these themes are based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) for Atom.
 
 ### Resources
-[Orginal Colorscheme for Atom on simurai.com](https://github.com/simurai/duotone-dark-syntax/blob/master/styles/colors.less](http://simurai.com/projects/2016/01/01/duotone-themes/)
-[Orginal Colorscheme for Atom on Github](https://github.com/simurai/duotone-dark-syntax/blob/master/styles/colors.less)
-[Creating Colorschemes for Vim on vimcasts.org](http://vimcasts.org/episodes/creating-colorschemes-for-vim/)
+- [Orginal Colorscheme for Atom on simurai.com](https://github.com/simurai/duotone-dark-syntax/blob/master/styles/colors.less](http://simurai.com/projects/2016/01/01/duotone-themes/)
+- [Orginal Colorscheme for Atom on Github](https://github.com/simurai/duotone-dark-syntax/blob/master/styles/colors.less)
+- [Creating Colorschemes for Vim on vimcasts.org](http://vimcasts.org/episodes/creating-colorschemes-for-vim/)
