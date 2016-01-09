@@ -14,6 +14,13 @@ Go to [demopage](http://atelierbram.github.io/syntax-highlighting/duotones)
 - [DuoTone darkForest](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkForest_vim_960x640.png "DuoTone Dark")
 - [DuoTone darkPool](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkPool_vim_960x640.png "DuoTone Dark")
 
+Font used in screenshots is [FiraMono](http://www.carrois.com/fira-4-1/#download), set in generous lineheight.
+
+```bash
+set guifont=FiraMono-Regular:h14
+set linespace=4
+```
+
 ## Installation
 
 ### Option 1: Manual installation
@@ -66,13 +73,6 @@ colorscheme base16-duotone-dark
 " colorscheme base16-duotone-darkearth
 " colorscheme base16-duotone-darkpool
 ```
-
-### License
-
-Released under [MIT Licence](http://atelierbram.mit-license.org)
-
-[Pathogen]: https://github.com/tpope/vim-pathogen
-
 ### Credits
 Credits to [Simurai](http://simurai.com/), for these themes are based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) for Atom.
 
@@ -80,3 +80,8 @@ Credits to [Simurai](http://simurai.com/), for these themes are based on [Duoton
 - [Orginal Colorscheme for Atom on simurai.com](http://simurai.com/projects/2016/01/01/duotone-themes/)
 - [Orginal Colorscheme for Atom on Github](https://github.com/simurai/duotone-dark-syntax/blob/master/styles/colors.less)
 - [Creating Colorschemes for Vim on vimcasts.org](http://vimcasts.org/episodes/creating-colorschemes-for-vim/)
+
+### License
+Released under [MIT Licence](http://atelierbram.mit-license.org)
+
+[Pathogen]: https://github.com/tpope/vim-pathogen
