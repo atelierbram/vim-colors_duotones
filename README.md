@@ -69,9 +69,11 @@ colorscheme base16-duotone-dark
 " or any of the other schemes:
 " colorscheme base16-duotone-darksea
 " colorscheme base16-duotone-darkspace
-" colorscheme base16-duotone-darkforest
 " colorscheme base16-duotone-darkearth
+" colorscheme base16-duotone-darkforest
 " colorscheme base16-duotone-darkpool
+" colorscheme base16-duotone-darkdesert
+" colorscheme base16-duotone-darkpark
 ```
 ### Credits
 Credits to [Simurai](http://simurai.com/), for these themes are based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) for Atom.
