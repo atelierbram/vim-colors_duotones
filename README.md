@@ -67,13 +67,17 @@ set background=dark
 " BTW these themes do “kind of work” in the light version, but are not optimized for light background mode:
 colorscheme base16-duotone-dark
 " or any of the other schemes:
-" colorscheme base16-duotone-darksea
-" colorscheme base16-duotone-darkspace
 " colorscheme base16-duotone-darkearth
-" colorscheme base16-duotone-darkforest
-" colorscheme base16-duotone-darkpool
 " colorscheme base16-duotone-darkdesert
+" colorscheme base16-duotone-darkforest
 " colorscheme base16-duotone-darkpark
+" colorscheme base16-duotone-darkmeadow
+" colorscheme base16-duotone-darksea
+" colorscheme base16-duotone-darkpool
+" colorscheme base16-duotone-darkspace
+" colorscheme base16-duotone-dark
+" colorscheme base16-duotone-darkheath
+" colorscheme base16-duotone-darkcave
 ```
 ### Credits
 Credits to [Simurai](http://simurai.com/), for these themes are based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) for Atom.
