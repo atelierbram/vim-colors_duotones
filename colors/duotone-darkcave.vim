@@ -1,5 +1,5 @@
-" Base16 Duotone-DarkEarth (https://github.com/chriskempson/base16)
-" Scheme: adapted from: Simurai (https://github.com/simurai/duotone-dark-earth-syntax/)
+" Duotone-DarkCave (https://github.com/chriskempson/base16)
+" Scheme: adapted from: Simurai (https://github.com/simurai/duotone-dark-syntax/)
 
 " This enables the coresponding base16-shell script to run so that
 " :colorscheme works in terminals supported by base16-shell scripts
@@ -7,27 +7,27 @@
 "   let g:base16_shell_path=base16-builder/output/shell/
 if !has('gui_running')
   if exists("g:base16_shell_path")
-    execute "silent !/bin/sh ".g:base16_shell_path."/base16-duotone-darkearth.".&background.".sh"
+    execute "silent !/bin/sh ".g:base16_shell_path."/duotone-darkcave.".&background.".sh"
   endif
 endif
 
 " GUI color definitions
-let s:gui00 = "322d29"
-let s:gui01 = "3f3a37"
-let s:gui02 = "5b534d"
-let s:gui03 = "6a5f58"
-let s:gui04 = "796b63"
-let s:gui05 = "88786d"
-let s:gui06 = "a48774"
-let s:gui07 = "fff3eb"
-let s:gui08 = "da8952"
-let s:gui09 = "bfa05a"
-let s:gui0A = "ccad66"
-let s:gui0B = "a89771"
-let s:gui0C = "fcc440"
-let s:gui0D = "d7b975"
-let s:gui0E = "eba475"
-let s:gui0F = "e39663"
+let s:gui00 = "272526"
+let s:gui01 = "353133"
+let s:gui02 = "5d5658"
+let s:gui03 = "786d71"
+let s:gui04 = "5f5458"
+let s:gui05 = "988189"
+let s:gui06 = "ffbdd4"
+let s:gui07 = "ffebf2"
+let s:gui08 = "ab2151"
+let s:gui09 = "d2bc4b"
+let s:gui0A = "e5cf61"
+let s:gui0B = "c6be95"
+let s:gui0C = "ffee99"
+let s:gui0D = "f4e07c"
+let s:gui0E = "e21d62"
+let s:gui0F = "c5205a"
 
 " Terminal color definitions
 let s:cterm00 = "00"
@@ -59,7 +59,7 @@ endif
 " Theme setup
 hi clear
 syntax reset
-let g:colors_name = "base16-duotone-darkearth"
+let g:colors_name = "duotone-darkcave"
 
 " Highlighting function
 fun <sid>hi(group, guifg, guibg, ctermfg, ctermbg, attr)
