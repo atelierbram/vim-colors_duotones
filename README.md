@@ -81,7 +81,7 @@ colorscheme duotone-dark
 ```
 
 NOTE: Just a heads up for existing users: please remove the base16- prefix from `colorscheme` in your `vimrc`.
-So it's `colorscheme duotone-dark` and not `base16-colorscheme duotone-dark`. Sorry for the inconvenience, but this way it's cleaner.
+So it's `colorscheme duotone-dark` and not `colorscheme base16-duotone-dark`. Sorry for the inconvenience, but this way it's cleaner.
 
 
 ### Credits
