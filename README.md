@@ -79,6 +79,11 @@ colorscheme duotone-dark
 " colorscheme duotone-darkheath
 " colorscheme duotone-darkcave
 ```
+
+NOTE: Just a heads up for existing users: please remove the base16- prefix from `colorscheme` in your `vimrc`.
+So it's `colorscheme duotone-dark` and not `base16-colorscheme duotone-dark`. Sorry for the inconvenience, but this way it's cleaner.
+
+
 ### Credits
 Credits to [Simurai](http://simurai.com/), for these themes are based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) for Atom.
 
