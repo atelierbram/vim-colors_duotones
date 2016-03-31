@@ -5,6 +5,8 @@ Based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/
 
 Go to [demopage](http://atelierbram.github.io/syntax-highlighting/duotones)
 
+**NOTE**: These color schemes are optimized and have been tested in the _GUI_ version of Vim, and _not_ the terminal version. For a more seamless experience: these same color schemes will also be ported to iTerm2.
+
 ## Screenshot
 ![DuoTone Dark](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_vim_960x640.png "DuoTone Dark")
 
