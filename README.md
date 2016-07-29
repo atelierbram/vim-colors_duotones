@@ -1,4 +1,7 @@
 # DuoTones
+
+This repo is deprecated, but is continued at [Base2Tone-vim](https://github.com/atelierbram/Base2Tone-vim). Base2Tone-vim is generated with a rejuvenated templating engine, and also comes with light themes.
+
 Based on [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes/) by [Simurai](http://simurai.com/) for Atom.
 
 > “DuoTone themes use only 2 hues (7 shades in total). It tones down less important parts (like punctuation and brackets) and highlights only the important ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.”
